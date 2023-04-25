@@ -3,8 +3,7 @@
     "description": "整理全网最全PHP常用开发函数,",
     "type": "library",
     "require": {
-        "php": ">=7.0",
-        "zhengbingdong/php-tools-function": "^1.1.2"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
